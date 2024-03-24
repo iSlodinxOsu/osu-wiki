@@ -8,7 +8,7 @@ tags:
 
 ![Mirai2020 logo](img/logo.png)
 
-The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth instalment of the Mirai. Tournament.
+The **Mirai. Tournament 2020** (***Mirai2020***) was a worldwide double-eliminination 2v2 osu! tournament hosted by ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709). It was the fourth instalment of the Mirai. Tournament.
 
 ## Tournament schedule
 
@@ -32,7 +32,7 @@ The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminina
 
 ## Organisation
 
-The Mirai. Tournament 2020 is run by various community members.
+The Mirai. Tournament 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
