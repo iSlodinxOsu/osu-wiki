@@ -7,7 +7,7 @@ tags:
 
 ![CES2 logo](img/logo.png)
 
-The **CES League osu! Tournament 2** (***CES2***) is an international 1v1 double-elimination osu! tournament hosted by ::{ flag=NL }:: [Stan](https://osu.ppy.sh/users/11212255). This is the second instalment of the CES League osu! Tournament series.
+The **CES League osu! Tournament 2** (***CES2***) was an international 1v1 double-elimination osu! tournament hosted by ::{ flag=NL }:: [Stan](https://osu.ppy.sh/users/11212255). It was the second instalment of the CES League osu! Tournament series.
 
 ## Tournament schedule
 
@@ -36,7 +36,7 @@ The **CES League osu! Tournament 2** (***CES2***) is an international 1v1 double
 
 ## Organisation
 
-The CES League osu! Tournament 2 is run by various community members.
+The CES League osu! Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
