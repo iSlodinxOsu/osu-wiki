@@ -36,7 +36,7 @@ The **Aetherian's Summer Singles 3** (***AESS3***) was a 1v1 double-elimination 
 
 ## Organisation
 
-The Aetherian's Summer Singles 3 is run by various community members.
+The Aetherian's Summer Singles 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
